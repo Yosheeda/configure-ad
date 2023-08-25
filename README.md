@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/pU5A58S.png" height="40%" width="70%"alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>Configuring Active Directory (On-Premises) Within Azure</h1>
+<h1>Configuring Active Directory Within Azure(On-Premises)</h1>
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
 
