@@ -226,7 +226,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <p>
   During this tutorial we observed traffic between virtual machines and gained insight about network security protocols. Running this is in an Azure VM isn't necessary but it is still good experience. p>
 <p>
-  With this lab finished we can , DON'T FORGET TO CLEAN UP YOUR AZURE ENVIRONMENT so that you don't incur unnecessary charges.
+  With this lab finished we can clean up our Azure enviroment so we don't incur unnecessary charges.
 </p>
 <p>
   Close Remote Desktop, delete the Resource Group(s) made at the beginning of this tutorial, and verify Resource Group deletion.
